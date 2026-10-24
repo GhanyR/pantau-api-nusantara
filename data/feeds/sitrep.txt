@@ -1,0 +1,20 @@
+*SITREP KARHUTLA NASIONAL*
+Data satelit s.d. 2026-10-25 01:17 WIB (NASA FIRMS)
+Deteksi 24 jam: 12.330 | 7 hari: 208.431
+Insiden aktif 24 jam: 807 (kritis: 13)
+Provinsi teratas (deteksi 24 jam):
+1. Kalimantan Tengah: 3203
+2. Sumatera Selatan: 2310
+3. Papua Selatan: 1012
+4. Kalimantan Barat: 1501
+5. Kalimantan Selatan: 117
+6. Papua Barat: 604
+Insiden prioritas tertinggi:
+1. KRH-PXAM Ogan Komering Ilir 1 (Sumatera Selatan) skor 78, 208 deteksi 24j, -3.4194,105.4974
+2. KRH-QB66 Ogan Komering Ilir 2 (Sumatera Selatan) skor 76, 279 deteksi 24j, -3.3257,105.1810
+3. KRH-PQD0 Ogan Komering Ilir 3 (Sumatera Selatan) skor 76, 143 deteksi 24j, -3.4727,105.7596
+4. KRH-RQB5 Ketapang 1 (Kalimantan Barat) skor 74, 644 deteksi 24j, -2.8280,110.6988
+5. KRH-R7SU Sukamara 1 (Kalimantan Tengah) skor 73, 249 deteksi 24j, -2.9186,110.9984
+6. KRH-QDR1 Seruyan 1 (Kalimantan Tengah) skor 72, 288 deteksi 24j, -3.3422,111.9688
+7. KRH-QBGB Seruyan 2 (Kalimantan Tengah) skor 71, 948 deteksi 24j, -3.0575,112.0957
+8. KRH-WHCL Muaro Jambi 1 (Jambi) skor 69, 240 deteksi 24j, -1.4131,104.0650
